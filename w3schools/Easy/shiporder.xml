@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shiporder orderid="889923" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="shiporder.xsd">
+<orderperson>John Smith</orderperson>
+<shipto>
+  <name>Alex Wong</name>
+  <address>24, Jalan Tiong 2</address>
+  <city>Skudai</city>
+  <country>Malaysia</country>
+</shipto>
+<item>
+  <title>DVD- The New Roman</title>
+  <note>2020 Special Edition DVD</note>
+  <quantity>2</quantity>
+  <price>10.90</price>
+</item>
+<item>
+  <title>Book- The Jingle Bells</title>
+  <quantity>1</quantity>
+  <price>9.90</price>
+</item>
+</shiporder>
